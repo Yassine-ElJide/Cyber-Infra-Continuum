@@ -1,0 +1,57 @@
+# ─────────────────────────────────────────────
+# Sensitive material — NEVER commit these
+# ─────────────────────────────────────────────
+
+# VPN configs (HTB, corporate, personal)
+*.ovpn
+*.vpn
+*.conf.ovpn
+wireguard/
+*.wg
+
+# Lab artefacts: loot, scans, captures, binaries
+loot/
+scans/
+*.bin
+*.pcap
+*.pcapng
+*.cap
+
+# Flags
+*flag*
+*.flag
+user.txt
+root.txt
+proof.txt
+local.txt
+
+# Credentials and secrets
+credentials.txt
+creds.txt
+passwords.txt
+hashes.txt
+.env
+.env.*
+*.pem
+*.key
+*.pfx
+id_rsa
+id_ed25519
+*.kdbx
+terraform.tfstate
+terraform.tfstate.*
+*.tfvars
+.terraform/
+
+# ─────────────────────────────────────────────
+# OS / editor junk
+# ─────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*.swo
+*~
+.idea/
+.vscode/
+*.log
