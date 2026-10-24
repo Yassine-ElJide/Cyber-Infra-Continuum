@@ -5,9 +5,9 @@
 ![Cloud track](https://img.shields.io/badge/Cloud-Azure%20%7C%20AWS-0078D4?style=for-the-badge&logo=icloud&logoColor=white)
 ![AI track](https://img.shields.io/badge/AI-NVIDIA%20AI%20Infra-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
-Hi, I'm an **infrastructure / cloud engineer** with a strong interest in **cybersecurity** (ESIEE Paris, 3 years at CNP Assurances Group), working toward **senior cloud, infrastructure & security roles**.
+Hi, I'm a **cybersecurity engineer with an infrastructure & cloud background** (ESIEE Paris, 3 years at CNP Assurances Group), working toward **senior cybersecurity & cloud security roles**.
 
-This repo is where continuous, hands-on learning lives in the open. I use Hack The Box to understand how systems and networks really work under the hood, and how they get attacked and defended. Security runs through everything I build: my goal is cloud and infrastructure that is **secure by design**. Alongside the labs, it is my living knowledge base (cheatsheets, notes) and the tracker for my certification path, with two focus tracks: **Cloud** and **AI**.
+This repo is where continuous, hands-on learning lives in the open. I use Hack The Box to understand how systems and networks really work under the hood, and how they get attacked and defended. Infrastructure and cloud are my foundation, and cybersecurity is my direction: I want to design, harden and defend environments that are **secure by design**. Alongside the labs, it is my living knowledge base (cheatsheets, notes) and the tracker for my certification path, with two focus tracks: **Cloud** and **AI**.
 
 ---
 
@@ -34,15 +34,15 @@ This repo is where continuous, hands-on learning lives in the open. I use Hack T
 
 **Where I started:** infrastructure and support. Keeping systems running, learning Linux and Windows environments, networks, and virtualization in a large insurance group (CNP Assurances).
 
-**Where I am:** moving from operations toward **cloud & infrastructure engineering**: Azure first, then AWS, with containers, orchestration and Infrastructure as Code as the daily toolkit. HTB labs sharpen my understanding of how services, trust and networks behave when they are misconfigured, which makes me better at building them properly.
+**Where I am:** moving from operations toward **cloud & infrastructure security**: Azure first, then AWS, with containers, orchestration and Infrastructure as Code as the daily toolkit. HTB labs sharpen my understanding of how services, trust and networks behave when they are misconfigured, which makes me better at securing them properly.
 
-**Where I'm heading:** **senior cloud, infrastructure & security roles**, with two focus areas:
+**Where I'm heading:** **senior cybersecurity & cloud security roles**, with two focus areas:
 
 1. **Cloud**: Azure & AWS, Kubernetes, Terraform, CI/CD
 2. **AI**: building and operating AI infrastructure (GPUs, clusters, pipelines), and securing it
 
 ```
-Infra / Support  ──▶  Cloud & Infrastructure Engineer  ──▶  Senior Cloud / Infra
+Infra / Support  ──▶  Cloud & Infra Security Engineer  ──▶  Senior Cybersecurity / Cloud Security
                          (Azure · AWS · K8s · IaC)            (Cloud + AI focus)
 ```
 
